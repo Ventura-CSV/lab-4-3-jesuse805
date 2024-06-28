@@ -6,6 +6,9 @@ def main():
     
     
     while numberInput < 5:
+        inputLab4dash3 = int(input(''))
+        total += inputLab4dash3
+        
     
     
     print(total)
