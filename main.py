@@ -5,6 +5,8 @@ def main():
     """
     
     
+    while numberInput < 5:
+    
     
     print(total)
     """
