@@ -3,19 +3,18 @@ def main():
     ########################################
     Code Your Program here
     """
+    total = 0
+    i = 0
     
-    
-    while numberInput < 5:
-        inputLab4dash3 = int(input(''))
+    while i < 5:
+        inputLab4dash3 = int(input(""))
         total += inputLab4dash3
-        
-    
+        i += 1
     
     print(total)
     """
     ########################################
     """
-    total = 0
 
     ########################################
     # Do not delete the return statement
